@@ -1,6 +1,6 @@
 # Quadra Nsl-Hub
 
-*GitHub https://github.com/Quadra-NSL/Quadra
+* GitHub https://github.com/Quadra-NSL/Quadra
 
 Directory Structure
 -------------------
@@ -9,7 +9,11 @@ Directory Structure
 * **CAN_BUS protocol/** -
 * **GUI Control/** - 
 * **Joystick Control/** -
-* **Pixhawk/** -
+* **Websocket/** -
+* **Obstacle Avoidance/** -
+* **Outdoor Navigation/** -
+* **Indoor Navigation/** -
+* **Path Planning/** -
 
 
 
