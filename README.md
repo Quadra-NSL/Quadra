@@ -30,8 +30,14 @@ Specifications of Quadra
 |Gaits             | Trot, Run, Pronk |
 | Total Body Weight| 22 Kg            |
 
-Running the Quadra
-------------------
+Running the Quadra Simulation
+-----------------------------
+* **Git clone the following folder** - https://github.com/mjbots/mjmech
+
+```
+git clone https://github.com/mjbots/mjmech
+```
+
 
 
 
