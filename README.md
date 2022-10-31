@@ -30,6 +30,8 @@ Specifications of Quadra
 |Gaits             | Trot, Run, Pronk |
 | Total Body Weight| 22 Kg            |
 
+Running the Quadra
+------------------
 
 
 
