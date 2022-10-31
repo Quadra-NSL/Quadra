@@ -2,7 +2,7 @@
 
 * GitHub https://github.com/Quadra-NSL/Quadra
 
-     ![download](https://user-images.githubusercontent.com/117075507/199011591-14ba43d1-1aaa-4f55-8548-dc63922e1efe.jpg)
+     ![download](https://github.com/Quadra-NSL/Quadra/blob/main/Videos/q1.png)
 
 Directory Structure
 -------------------
